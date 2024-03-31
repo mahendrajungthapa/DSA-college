@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/language-Java-orange.svg?style=flat-square" alt="Language" />
-  <img src="https://img.shields.io/github/last-commit/yourusername/dsalab.svg?style=flat-square" alt="Last Commit" />
+  <img src="https://img.shields.io/github/last-commit/mahendrajungthapa/DSA-college.svg?style=flat-square" alt="Last Commit" />
   <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License" />
 </p>
 
