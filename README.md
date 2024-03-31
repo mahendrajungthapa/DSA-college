@@ -13,7 +13,7 @@ Welcome to the **Data Structures and Algorithms Lab** repository! 🎉 This proj
 ### Built With
 
 - [Java](https://java.com)
-- [c++]()
+- [C]()
 - love for coding 💖
 
 ## Getting Started
