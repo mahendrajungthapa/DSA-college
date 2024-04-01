@@ -56,7 +56,7 @@
 	}
 	else
 	{
-		printf("\n\n The Elements in the stack is/are...: ");
+		printf("\n The Elements in the stack is/are...: ");
 		for (i=pt->top;i>=0;i--)
 		{
 		printf("\n %d", pt->stack[i]);	
